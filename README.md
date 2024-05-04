@@ -1,1 +1,2 @@
 # VBA_Challenge
+In our task, we were tasked with developing VBA code to generate concise summaries of quarterly stock data. This undertaking demanded the utilization of nested loops or conditional expressions, manipulation of diverse data types, and implementation of principles for conditional formatting. Furthermore, we were challenged to augment the script with functionality to retrieve stocks exhibiting the 'Highest Percentage Increase,' 'Highest Percentage Decrease,' and 'Highest Total Volume.
